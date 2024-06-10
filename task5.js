@@ -1,1 +1,1 @@
-var arr = [branch2git];
+var arr = [branch3];
